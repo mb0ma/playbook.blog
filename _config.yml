@@ -101,7 +101,7 @@ deploy:
   type: ''
 
 # Search
-Search
-  path: search.xml
-  field: post
+#Search
+#  path: search.xml
+#  field: post
 
