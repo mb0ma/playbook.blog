@@ -24,16 +24,16 @@ avatar: /image/avatar.jpeg
 ## Unused key can be commented out.
 links:
   Blog: /archives
-  Category:
-  Tags: 
+  Category: /categories
+  Tags: /tags
   # Link:
   # Resume:
-  Publish:
+  # Publish:
   # Trophy:
   # Gallery:
   # RSS:
   # AliPay:
-  ZhiHu: https://www.zhihu.com/people/sirice
+  # ZhiHu: https://www.zhihu.com/people/sirice
   # LinkedIn:
   # FaceBook:
   # Twitter:
@@ -43,12 +43,12 @@ links:
   # Sketch:
   # Gitlab:
   # Dribbble:
-  Instagram:
-  Reddit:
+  # Instagram:
+  # Reddit:
   # YouTube:
   # QQ:
   # Weibo:
-  WeChat:
+  # WeChat:
   Github: https://github.com/mb0ma
 
 # how links show: you have 2 choice--text or icon.
@@ -108,13 +108,9 @@ mathjax:
   ## demand: Recommend option,if your post need fomula, you can declare 'mathjax: true' in Front-matter
 
 
-#sidebar:
-#  position: left
-#  display: always
+sidebar: 
+  position: left
+  display: always
 
 #site_stage: true
 
-smart_menu:
-  archives: '所有文章'
-#  friends: '友链'
-  about: '关于我'
