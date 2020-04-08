@@ -106,8 +106,13 @@ mathjax:
   ## demand: Recommend option,if your post need fomula, you can declare 'mathjax: true' in Front-matter
 
 
-sidebar:
-  position: left
-  display: always
+#sidebar:
+#  position: left
+#  display: always
 
-site_stage: true
+#site_stage: true
+
+smart_menu:
+  archives: '所有文章'
+#  friends: '友链'
+  about: '关于我'
