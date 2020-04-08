@@ -24,11 +24,11 @@ avatar: /image/avatar.jpeg
 ## Unused key can be commented out.
 links:
   Blog: /archives
-  # Category:
-  # Tags: 
+  Category:
+  Tags: 
   # Link:
   # Resume:
-  # Publish:
+  Publish:
   # Trophy:
   # Gallery:
   # RSS:
@@ -48,7 +48,7 @@ links:
   # YouTube:
   # QQ:
   # Weibo:
-  # WeChat:
+  WeChat:
   Github: https://github.com/mb0ma
 
 # how links show: you have 2 choice--text or icon.
@@ -73,6 +73,8 @@ post_copyright_slogan_enable: true
 post_copyright_slogan_text: Do you believe in <strong>DESTINY</strong>?
 ## toc
 post_toc_enable: true
+sidebar: 
+  position: left
 
 # Page
 page_title_enable: true
