@@ -73,8 +73,7 @@ post_copyright_slogan_enable: true
 post_copyright_slogan_text: Do you believe in <strong>DESTINY</strong>?
 ## toc
 post_toc_enable: true
-sidebar: 
-  position: left
+
 
 # Page
 page_title_enable: true
@@ -108,9 +107,9 @@ mathjax:
   ## demand: Recommend option,if your post need fomula, you can declare 'mathjax: true' in Front-matter
 
 
-sidebar: 
-  position: left
-  display: always
+#sidebar: 
+#  position: left
+#  display: always
 
 #site_stage: true
 
