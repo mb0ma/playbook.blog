@@ -3,7 +3,6 @@ title: Hello World
 category: 
 - Open Source
 - test
-  - test
 tag:
 - helloworld
 ---

@@ -8,8 +8,6 @@ category:
 - Social Innovation
 - test
 
-
-
 ---
 
 
