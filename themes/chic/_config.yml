@@ -4,8 +4,8 @@ navname: playbook.dev
 # navigatior items
 nav:
   Posts: /archives
-  Categories: /category
-  Tags: /tag
+  Categories: /categories
+  Tags: /tags
   About: /about
 
 # favicon
@@ -49,7 +49,7 @@ links:
   # QQ:
   # Weibo:
   # WeChat:
-  Github: https://github.com/Siricee
+  Github: https://github.com/mb0ma
 
 # how links show: you have 2 choice--text or icon.
 links_text_enable: false
