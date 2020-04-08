@@ -108,5 +108,6 @@ mathjax:
 
 sidebar:
   position: left
+  display: always
 
 site_stage: true
