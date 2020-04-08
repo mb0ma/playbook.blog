@@ -1,8 +1,8 @@
 ---
 title: Hello World
 category: 
-- Open Source
-- test
+- [Open Source]
+- [test]
 tag:
 - helloworld
 ---
