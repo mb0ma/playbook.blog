@@ -99,3 +99,9 @@ theme: chic
 ## Docs: https://hexo.io/docs/deployment.html
 deploy:
   type: ''
+
+# Search
+Search
+  path: search.xml
+  field: post
+
